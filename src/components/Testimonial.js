@@ -47,7 +47,7 @@ const Testimonial = (props) => {
             <button onClick={surprisehandler}
             className='bg-violet-400 hover:bg-violet-500 transition-all duration-300 
             cursor-pointer px-10 py-2 rounded-md font-bold text-white text-lg mt-4'>
-            Surprise Me
+            Random
             </button>
         </div>
 
